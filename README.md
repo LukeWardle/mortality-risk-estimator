@@ -2,7 +2,7 @@
 A command-line tool demonstrating linear algebra concepts through healthcare risk assessment.
 ## Overview
 This tool calculates mortality risk scores using vector operations (dot product).
-It demonstrates fundamental NumPy operations and professional Python development practices.
+It demonstrates fundamental NumPy operations modular structure and unit testing.
 ## Requirements
 - Python 3.8+
 - NumPy
@@ -10,7 +10,7 @@ It demonstrates fundamental NumPy operations and professional Python development
 1. Create and activate virtual environment:
 ```bash
 python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+source .venv/bin/activate # On Windows: .venv\Scripts\activate
 ```
 2. Install dependencies:
 ```bash
